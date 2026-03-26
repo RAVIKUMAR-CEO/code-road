@@ -321,7 +321,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/sanyamChaudhary27/CodeRoad/issues)
+- **Issues:** [GitHub Issues](https://github.com/RAVIKUMAR-CEO/code-road/issues)
 - **Documentation:** See `/docs` folder
 
 ---
