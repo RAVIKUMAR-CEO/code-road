@@ -43,7 +43,7 @@ CodeRoad is a competitive programming platform where developers battle in real-t
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/sanyamChaudhary27/CodeRoad.git
+git clone https://github.com/RAVIKUMAR-CEO/code-road
 cd CodeRoad
 ```
 
